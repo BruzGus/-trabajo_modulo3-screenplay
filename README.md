@@ -12,6 +12,7 @@ Crear proyecto de automatización de pruebas para la aplicación “The-Internet
 
 “You logged into a secure area!”
 (Hugo Aruni Hugo Aguirre)
+
 Casos de pruebas de adicionar y eliminar elementos en la sección de “Add/Remove Elements”.
 
 2. Caso de Prueba 1: Adicionar elemento (Cecilia, Rene y Reinaldo)
