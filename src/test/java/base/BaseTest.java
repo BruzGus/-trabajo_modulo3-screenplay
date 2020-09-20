@@ -68,7 +68,7 @@ public class BaseTest {
         }finally {
             if(webDriver != null)
                 System.out.println("final final");
-                //webDriver.quit();
+                webDriver.quit();
         }
     }
 
